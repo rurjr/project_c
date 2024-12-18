@@ -2,4 +2,5 @@
 
 
 def rnn() -> None:
+    print(f'Where important changes 13:11 ')
     print(f'Implementation of rnn')
